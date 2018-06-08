@@ -1,2 +1,2 @@
 # pangteypiyush.github.io
-gh-pages with potate power. ^^
+gh-pages with potato power. ^^
